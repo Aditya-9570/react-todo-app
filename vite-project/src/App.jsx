@@ -44,7 +44,7 @@ const App = () => {
   }
 
   return (
-    <div className="bg-grey-500 h-screen">
+    <div className="bg-sky-950 h-screen ">
       <Header/>
     <ToDoList
       input={input}
